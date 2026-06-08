@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "Gestiona tus proyectos con inteligencia artificial predictiva. Automatiza flujos de trabajo, estima tiempos de forma dinámica y predice cuellos de botella para acelerar la productividad de tu equipo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
